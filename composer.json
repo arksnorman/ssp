@@ -1,0 +1,20 @@
+{
+    "name": "arksnorman/ssp",
+    "license": "MIT",
+    "type": "library",
+    "description": "Datatables SSP class for PHP server side scripting",
+    "authors": [
+        {
+            "name": "Kidhoma Norman",
+            "email": "arksnorman@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DataTable\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    }
+}
