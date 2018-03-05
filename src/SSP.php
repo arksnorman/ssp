@@ -6,7 +6,7 @@ namespace DataTable;
 use PDO;
 use PDOException;
 
-class DataTable 
+class SSP 
 {
 
     /**
