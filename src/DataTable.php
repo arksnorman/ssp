@@ -1,6 +1,6 @@
 <?php
 
-namespace DataTable
+namespace DataTable;
 
 
 use PDO;
